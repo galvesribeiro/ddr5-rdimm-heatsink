@@ -1,6 +1,6 @@
-# ddr5-rdimm-heatsink
+# DDR5 RDIMM Memory Heatsink
 
-DDR5 RDIMM heatsink design files
+A DDR5 RDIMM Memory module heatsink design files.
 
 The design files in this repo works for any DDR5 RDIMM memory modules which is common on workstations and servers.
 
